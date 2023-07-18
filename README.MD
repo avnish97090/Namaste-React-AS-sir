@@ -10,6 +10,25 @@ github is a client , github is a place which can host git repositories ...
 Anything which we can generate on server can be put nside gitignore...
 
 
+/**Foodvilla
+ *        Header 
+ *  - Logo(Title)
+ *  -Nav Iterms (Right Side)
+ *  - Cart        
+ * 
+ *          Body 
+ * -Search bar 
+ * -RestraurantList (many cards)
+ *         -Image
+ *         -Name
+ *         -Rating
+ *         -Cusines
+ * 
+ *          Footer
+ * -Links
+ * -Copyright
+ *    
+ */
 
 
 we put node module , dist folder and .parcel-cache in our gitignongore 
